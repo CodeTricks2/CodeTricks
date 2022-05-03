@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # CodeTricks
+=======
+# CodeTricks
+>>>>>>> main
